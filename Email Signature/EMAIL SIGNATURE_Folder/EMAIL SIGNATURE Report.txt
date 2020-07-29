@@ -1,0 +1,40 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: EMAIL SIGNATURE.ai
+Color Mode: CMYK color
+Color Profile: none
+Ruler Units: centimeters
+Artboard Dimensions: 14.4666 cm x 2.7905 cm
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Helvetica Neue Light (TrueType)
+Helvetica Neue (TrueType)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+NONE
